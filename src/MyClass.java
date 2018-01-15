@@ -22,7 +22,7 @@ public class MyClass {
 		else{
 			System.out.println("\n i is "+ i);
 		}
-		System.out.println("ANSWER: 42");
+		System.out.println("the ANSWER is 42");
 	}
 
 }
